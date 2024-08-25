@@ -1,7 +1,7 @@
 # Bankly
 This project is a Bank Management System implemented in C++ using Object-Oriented Programming (OOP) concepts. The system allows multiple users to create and manage their own bank accounts. The key features include account creation, deposit, withdrawal, and checking account information.
 
-#Features
+# Features
 
   Account Creation: Users can create new accounts, including savings and current accounts, with basic details like the account holder's name.
   Deposit: Users can deposit money into their accounts.
@@ -10,7 +10,7 @@ This project is a Bank Management System implemented in C++ using Object-Oriente
   
   Account Information: Users can view account details, such as the account holder's name and current balance.
   
-#Additional Functionality
+# Additional Functionality
 
   Savings Account Restrictions: If a user with a savings account attempts to withdraw money that results in a balance below ₹500, further withdrawals are not allowed.
   
@@ -18,13 +18,13 @@ This project is a Bank Management System implemented in C++ using Object-Oriente
   
   Multiple User Support: The system supports multiple users, each with their own accounts.
 
-#Tech Stack
+# Tech Stack
 
   Language: C++
   
   Concepts Used: Object-Oriented Programming (OOP)
   
-#How to Use
+# How to Use
 
   Clone the repository.
   
@@ -34,13 +34,12 @@ This project is a Bank Management System implemented in C++ using Object-Oriente
   
   Follow the on-screen prompts to create accounts, deposit, withdraw, and check account details.
   
-#Future Enhancements
+# Future Enhancements
 
   Adding support for different types of bank accounts (e.g., fixed deposits).
   
-  Implementing a user interface for easier interaction.
+  * Implementing a user interface for easier interaction.
+  * Adding more robust error handling and security features.
   
-  Adding more robust error handling and security features.
-  
-#Author
+# Author
   Nadim
