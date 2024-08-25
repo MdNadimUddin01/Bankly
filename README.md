@@ -1,5 +1,5 @@
 # Bankly
-This project is a Bank Management System implemented in C++ using Object-Oriented Programming (OOP) concepts. The system allows multiple users to create and manage their own bank accounts. The key features include account creation, deposit, withdrawal, and checking account information.
+ * This project is a Bank Management System implemented in C++ using Object-Oriented Programming (OOP) concepts. The system allows multiple users to create and manage their own bank accounts. The key features include account creation, deposit, withdrawal, and checking account information.
 
 # Features
 
